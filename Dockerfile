@@ -129,7 +129,6 @@ RUN echo "http://dl-cdn.alpinelinux.org/alpine/v3.11/community" >> /etc/apk/repo
 	--disable-debug \
 	--disable-shared \
 	--enable-avfilter \
-	--enable-avresample \
 	--enable-gnutls \
 	--enable-gpl \
 	--enable-libass \
