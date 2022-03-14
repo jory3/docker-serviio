@@ -22,7 +22,7 @@ LABEL org.label-schema.build-date=$BUILD_DATE \
 	maintainer="[riftbit] ErgoZ <ergozru@gmail.com>"
 
 ARG FFMPEG_VERSION=5.0
-ARG JASPER_VERSION=2.0.14
+ARG JASPER_VERSION=3.0.2
 
 ENV JAVA_HOME="/usr"
 
